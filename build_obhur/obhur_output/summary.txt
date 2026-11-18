@@ -1,0 +1,22 @@
+Wareef - Obhur Al-Janubiyah (أبحر الجنوبية) database
+built: 2026-11-18T21:41:34Z
+boundary: nominatim_relation_20039248  area: 14.13 km2
+
+STREETS: 634   (5 with an OSM name, 629 named descriptively)
+OSM ways: 652
+descriptive names: بين 6, متفرّع 477, قرب 2, بدون 144
+POINTS: 26499   (every 10 m)
+total street length: 269.3 km
+
+soil cells downloaded: 2226  valid: 1593  masked: 633
+points with soil from their own cell: 15545 (58.7%)
+points using nearest valid cell: 10954  (max distance 1126 m)
+distinct soil cells used by points: 165
+sand+silt+clay in cells used by points: 99.9 - 100.1 %
+cells with zero/impossible values (treated as masked): 0
+
+climate days: 1826  (2021-01-01 .. 2025-12-31)
+  max temperature: 47.6 C, days >= 40 C: 71
+
+checks: foreign keys OK, points on masked cells: 0
+time: 3 s

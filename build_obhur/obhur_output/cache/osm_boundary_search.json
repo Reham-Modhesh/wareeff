@@ -1,0 +1,30 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.11 87bfad18",
+  "osm3s": {
+    "timestamp_osm_base": "2026-11-18T21:21:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "relation",
+  "id": 20039248,
+  "bounds": {
+    "minlat": 21.6996986,
+    "minlon": 39.0965774,
+    "maxlat": 21.7722016,
+    "maxlon": 39.1501987
+  },
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "أبحر الجنوبية",
+    "name:ar": "أبحر الجنوبية",
+    "name:en": "Abhur Al Janubiyah",
+    "type": "boundary"
+  }
+}
+
+  ]
+}
